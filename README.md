@@ -1,1 +1,1 @@
-# Dari-Spelling-Checking-Correction-System-kabul-Afghanistan
+# Dari-Spelling-Checker
